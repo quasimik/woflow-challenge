@@ -5,7 +5,9 @@ This is a static website. Use python [scrapy](https://docs.scrapy.org/en/latest/
 ## Installation
 
 `virtualenv -p python3 venv`
+
 `source venv/bin/activate`
+
 `pip install -r requirements.txt`
 
 ## Usage
